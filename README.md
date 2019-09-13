@@ -1,2 +1,3 @@
 # HelloWorld
-Just my practice
+
+This repository is created for my practice.
